@@ -11,9 +11,14 @@ Here we present a detailed group project on an agricultural dataset.
 #### [Scope](Scope)
 #### [Data SOurces](Data-Sources)
 #### [Tools Used](Tools-Used)
+#### [DAX Expressions](Dax-Expressions)
+#### [Data Visualisation](Data-Visualisation)
+#### [Data Interpretations and Insights](Data-Interpretations -and-insights)
+
+
 ## Project Title
 ---
-DATA ON AGRICULTURAL PRODUCE SALES, SUPPLY AND PRICING 
+A PROJECT ON ANALYSING DATA OF AGRICULTURAL PRODUCE SALES, SUPPLY AND PRICING 
 ## Project Team members
 ---
 *Mike Imianvan
@@ -50,5 +55,22 @@ The tools we used include:
 
   ## DAX EXPRESSIONS
   ---
+  We inserted into the table a new measure called Return on Investment (ROI)
+  We also included a calculated column called category groups. The essence is to carefully group the cateories such that it becomes easier to interprete.
+  
+  ## Data Visualisation
+  ---
+  The visuals were created using a PowerBi report GUI. A copy of both the powerBi and the Screenshot is as attached. 
+  Our Visuals ranged from tables, cards, Gauges, Line graph, piecharts, Barcharts 
+
+ ## Data Insights
+ ---
+ A total sum of 227million(Kg) units of produce were shipped during the period of review. We fixed our return on investment on units sold X price per unit for each produce. Hence the return on Investment for the year was 413.58million. This was a good yield regardless, though we would have to compare with YOY (year on Year) results to ascertain and appreciable increase
+
+The total names of product is 28. The price of the produce was highest in October. That can also mean that few people may be able to afford them towards the end of the year because of the high price.  
+  
+  
+In terms of percentages there was an almost equal sum of units shipped for all the group of categories.
+We also have sum of units sold for the different product name. Beef is the highest units sold while carrot is the lowest unit sold. 
   
 
