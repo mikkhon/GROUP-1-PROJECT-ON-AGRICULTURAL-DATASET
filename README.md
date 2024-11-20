@@ -13,7 +13,7 @@ Here we present a detailed group project on an agricultural dataset.
 #### [Tools Used](Tools-Used)
 #### [DAX Expressions](Dax-Expressions)
 #### [Data Visualisation](Data-Visualisation)
-#### [Data Interpretations and Insights](Data-Interpretations -and-insights)
+#### [Data Interpretations and Insights](Data-Interpretations-and-insights)
 
 
 ## Project Title
