@@ -65,12 +65,12 @@ The tools we used include:
 
  ## Data Insights
  ---
- A total sum of 227million(Kg) units of produce were shipped during the period of review. We fixed our return on investment on units sold X price per unit for each produce. Hence the return on Investment for the year was 413.58million. This was a good yield regardless, though we would have to compare with YOY (year on Year) results to ascertain and appreciable increase
+The total number of suppliers under review was 20.  A total sum of 227million(Kg) units of produce were shipped during the period of review. We fixed our return on investment on units sold multiplied by price per unit for each produce. Hence the return on Investment for the year was 413.58million. This was a good yield regardless, though we would have to compare with YOY (year on Year) results to ascertain any appreciable increase
 
-The total names of product is 28. The price of the produce was highest in October. That can also mean that few people may be able to afford them towards the end of the year because of the high price.  
+The total product names is 28. The price of the produce was highest in October. That can also mean that few people may be able to afford them towards the end of the year because of the high price.  
   
   
 In terms of percentages there was an almost equal sum of units shipped for all the group of categories.
-We also have sum of units sold for the different product name. Beef is the highest units sold while carrot is the lowest unit sold. 
+We also have sum of units sold for the different product name. Beef is the highest units sold while carrot is the lowest unit sold. The Highest supplier of agricultural produce is Dairyland Coop with 6279906 while the lowest supplier is Nature's Best Produce with 5124041 quantity. 
   
 
