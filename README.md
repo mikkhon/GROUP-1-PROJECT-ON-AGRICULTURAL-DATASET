@@ -23,6 +23,7 @@ A PROJECT ON ANALYSING DATA OF AGRICULTURAL PRODUCE SALES, SUPPLY AND PRICING
 ---
 *Mike Imianvan
 *Bernadine Nnaji
+*Titobiloluwa 
 
 ## Project Date
 ---
