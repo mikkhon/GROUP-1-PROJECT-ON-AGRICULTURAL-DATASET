@@ -2,8 +2,8 @@
 Here we present a detailed group project on an agricultural dataset. 
 
 ### Table of Content
-#### [Project Title](#project-title)
-#### [Project Team members](#project-team-members)
+#### [Project Title]#project-title
+#### [Project Team members]#project-team-members
 #### [Project Date](#project-date)
 #### [Introduction](#introduction)
 #### [Executive Summary](#Executive-summary)
