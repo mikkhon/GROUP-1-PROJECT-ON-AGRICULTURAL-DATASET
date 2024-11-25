@@ -2,18 +2,29 @@
 Here we present a detailed group project on an agricultural dataset. 
 
 ### Table of Content
-#### [Project Title]#project-title
-#### [Project Team members]#project-team-members
-#### [Project Date](#project-date)
-#### [Introduction](#introduction)
-#### [Executive Summary](#Executive-summary)
-#### [Objectives](#Objectives)
-#### [Scope](#Scope)
-#### [Data Sources](#Data-Sources)
-#### [Tools Used](#Tools-Used)
-#### [DAX Expressions](#Dax-Expressions)
-#### [Data Visualisation](#Data-Visualisation)
-#### [Data Interpretations and Insights](#Data-Interpretations-and-insights)
+- [Project Title](#project-title) 
+
+- [Project Team members](#project-team-members)
+
+- [Project Date](#project-date)
+
+- [Introduction](#introduction)
+
+- [Executive Summary](#executive-summary)
+  
+- [Objectives](#objectives)
+  
+- [Scope](#scope)
+
+- [Data Sources](#data-sources)
+  
+- [Tools Used](#tools-used)
+  
+- [DAX Expressions](#dax-expressions)
+  
+- [Data Visualisation](#data-visualisation)
+
+- [Data Insights](#data-insights)
 
 
 ## Project Title
@@ -22,7 +33,9 @@ A PROJECT ON ANALYSING DATA OF AGRICULTURAL PRODUCE SALES, SUPPLY AND PRICING
 ## Project Team members
 ---
 *Mike Imianvan
+
 *Bernadine Nnaji
+
 *Adenowo Titobiloluwa Kehinde
 
 ## Project Date
@@ -68,13 +81,17 @@ The tools we used include:
   The visuals were created using a PowerBi report GUI. A copy of both the powerBi and the Screenshot is as attached. 
   Our Visuals ranged from tables, cards, Gauges, Line graph, piecharts, Barcharts 
 
+  
+[Group1 skill harvest assigment.docx](https://github.com/user-attachments/files/17894422/Group1.skill.harvest.assigment.docx)
+
+
  ## Data Insights
  ---
-The total number of suppliers under review was 20.  A total sum of 227million(Kg) units of produce were shipped during the period of review. We fixed our return on investment on units sold multiplied by price per unit for each produce. Hence the return on Investment for the year was 413.58million. This was a good yield regardless, though we would have to compare with YOY (year on Year) results to ascertain any appreciable increase
+This project highlights the importance of understanding sales dynamics, supplier contributions, and category performance in the agricultural industry. The insights provide a foundation for making informed decisions to optimize operations, manage suppliers effectively, and drive revenue growth. This project has the total number of Twenty suppliers, sum of 227 million(kg) units of products shipped under the period of review. 
+The highest unit sold was the beef while carrot is the lowest units sold. The highest supplier of agricultural product is Dairyland Coop with 6279906 while the lowest supplier is Nature's Best Produce with 5124041 quantity.
+We fixed our return on investment on units sold multiplied by price per unit for each produce. Hence the return on Investment for the year was 413.58million. This was a good yield regardless, though we would have to compare with YOY (year on Year) results to ascertain any appreciable increase
 
 The total product names is 28. The price of the produce was highest in October. That can also mean that few people may be able to afford them towards the end of the year because of the high price.  
   
-  In terms of percentages there was an almost equal sum of units shipped for all the group of categories.
-We also have sum of units sold for the different product name. Beef is the highest units sold while carrot is the lowest unit sold. The Highest supplier of agricultural produce is Dairyland Coop with 6279906 while the lowest supplier is Nature's Best Produce with 5124041 quantity. 
   
 
